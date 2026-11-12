@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+attendance.csv
+Attendee_images/*
+!Attendee_images/.gitkeep
+*.jpg
+*.jpeg
+*.png
+*.npy
+*.pkl
